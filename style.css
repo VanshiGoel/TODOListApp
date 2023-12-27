@@ -1,0 +1,59 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1 {
+    background-color: #ea0669;
+    margin: 0px;
+    height: 80px;
+    font-size: 50px;
+    padding: 30px;
+    font-family: cursive;
+  }
+  
+  h2 {
+    font-size: 30px;
+    margin-left: 30px;
+    font-family: cursive;
+  }
+  
+  input {
+    width: 30%;
+    margin-left: 30px;
+    height: 30px;
+    font-size: 20px;
+  }
+  
+  button {
+    border-radius: 5px;
+    height: 37px;
+    margin-left: 20px;
+    width: 70px;
+    font-size: 20px;
+    background-color: #d1005b;
+    font-family: cursive;
+  }
+  
+  .edit {
+    background-color: green;
+    height: 31px;
+    width: 54px;
+    padding: 2px;
+    padding-top: 4px;
+  }
+  
+  .delete {
+    background-color: red;
+    height: 31px;
+    width: 70px;
+    padding: 2px;
+    padding-top: 4px;
+  }
+  
+  textarea {
+    width: 30%;
+    font-size: 20px;
+    margin-left: 30px;
+    height: 30px;
+  }
